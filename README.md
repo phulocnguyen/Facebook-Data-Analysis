@@ -1,1 +1,3 @@
-# Data Analysis Final Project
+# Facebook Data Analysis Project
+**Description**
+This project includes crawling data from Fabrizio Romano Fanpage and analyzing its features such as num likes, comments, shares,...
